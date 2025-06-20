@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/luiz-eduardo-wmw/vendas-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/luiz-eduardo-wmw/vendasweb.git
