@@ -96,7 +96,7 @@ http://localhost:8080/bellaface
 
 As capturas estão disponíveis em:
 
-📄 [`docs/docs/Avaliacao_BellaFace_Screenshots.pdf`](docs/Avaliacao_BellaFace_Screenshots.pdf)
+📄 [`docs/Avaliacao_BellaFace_Screenshots.pdf`](docs/Avaliacao_BellaFace_Screenshots.pdf)
 
 ---
 
