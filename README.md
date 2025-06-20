@@ -24,7 +24,7 @@ BellaFace/
 │   ├── Justificativa_Escolha_Tecnologica.pdf
 │   └── Guia_Configuracao_BellaFace.pdf
 ├── startup.bat
-└── Avaliacao_BellaFace_Screenshots.pdf
+└── docs/Avaliacao_BellaFace_Screenshots.pdf
 ```
 
 ---
@@ -55,7 +55,7 @@ Restaure o banco de dados com os seguintes dados:
 
 ## 🚀 Executando o Sistema
 
-Execute o script `sistema/startup.bat` para iniciar os dois `.jar`:
+Execute o script `startup.bat` para iniciar os dois `.jar`:
 
 - Backend: `sistema/vendas-0.0.1-SNAPSHOT.jar`
 - Frontend: `sistema/vendasweb-0.0.1-SNAPSHOT.jar`
@@ -67,8 +67,7 @@ Execute o script `sistema/startup.bat` para iniciar os dois `.jar`:
 Acesse pelo navegador:
 
 ```
-http://localhost:8080/bellaface (Frontend)
-http://localhost:8085 (Backend API)
+http://localhost:8080/bellaface
 ```
 
 ### Usuários para Teste:
@@ -97,7 +96,7 @@ http://localhost:8085 (Backend API)
 
 As capturas estão disponíveis em:
 
-📄 [`Avaliacao_BellaFace_Screenshots.pdf`](Avaliacao_BellaFace_Screenshots.pdf)
+📄 [`docs/docs/Avaliacao_BellaFace_Screenshots.pdf`](docs/Avaliacao_BellaFace_Screenshots.pdf)
 
 ---
 
